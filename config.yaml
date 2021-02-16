@@ -12,7 +12,6 @@ permalinks:
   note: /note/:year/:month/:day/:slug/
   post: /post/:year/:month/:day/:slug/
 
-
 menu:
   main:
     - name: "Home"
