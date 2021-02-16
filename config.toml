@@ -1,5 +1,5 @@
 theme = "hugo-ivy"
-baseURL = "http://example.org/"
+baseURL = "https://yiyuan.vercel.app/"
 languageCode = "en-us"
 title = "略略"
 
