@@ -1,6 +1,6 @@
 baseurl: https://yiyuan.vercel.app/
 languageCode: en-us
-title: Hugo Ivy
+title: "略略"
 theme: hugo-ivy
 googleAnalytics: ""
 disqusShortname: ""
@@ -14,24 +14,24 @@ permalinks:
 
 menu:
   main:
-    - name: "Home"
+    - name: "主页"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "关于"
       url: "/about/"
       weight: 2
-    - name: "Categories"
+    - name: "类别"
       url: "/categories/"
       weight: 3
-    - name: "Tags"
+    - name: "标签"
       url: "/tags/"
       weight: 4
-    - name: "Subscribe"
+    - name: "订阅"
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
-  footer: "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "袁依的个人网站"
+  footer: "&copy; [袁依](https://yiyuan.vercel.app/) 2021 | [Github](https://github.com/yuanyiyy) "
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
