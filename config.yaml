@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://yiyuan.vercel.app/
 languageCode: en-us
 title: Hugo Ivy
 theme: hugo-ivy
@@ -14,19 +14,19 @@ permalinks:
 
 menu:
   main:
-    - name: "Home"
+    - name: "主页"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "关于"
       url: "/about/"
       weight: 2
-    - name: "Categories"
+    - name: "类别"
       url: "/categories/"
       weight: 3
-    - name: "Tags"
+    - name: "标签"
       url: "/tags/"
       weight: 4
-    - name: "Subscribe"
+    - name: "订阅"
       url: "/index.xml"
 
 params:
