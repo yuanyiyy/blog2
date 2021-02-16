@@ -1,4 +1,4 @@
 theme = "hugo-ivy"
-baseURL = "https://yiyuan.vercel.app/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "略略"
+title = "My New Hugo Site"
