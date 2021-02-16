@@ -3,6 +3,7 @@ baseURL = "https://yiyuan.vercel.app/"
 languageCode = "en-us"
 title = "略略"
 
+
 menu:
   main:
     - name: "Home"
@@ -19,6 +20,7 @@ menu:
       weight: 4
     - name: "Subscribe"
       url: "/index.xml"
+  
   
 ## 配置 utteranc评论,教程参考 https://utteranc.es/
 [params.utteranc]
