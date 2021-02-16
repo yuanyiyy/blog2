@@ -2,3 +2,17 @@ theme = "hugo-ivy"
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "略略"
+
+# Navigation links
+	home = "主页/Home"
+	about = "关于/About"
+  categories="分类"
+	subscribe = "订阅/Subscribe"
+	Tags = "标签/Tags"
+  
+## 配置 utteranc评论,教程参考 https://utteranc.es/
+[params.utteranc]
+  enable = true
+  repo = "yuanyiyy/BlogComments" 
+  issueTerm = "pathname"
+  theme = "github-light"  
