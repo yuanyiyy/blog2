@@ -43,8 +43,9 @@ markup:
       unsafe: true
       
 ## 配置 utteranc评论,教程参考 https://utteranc.es/
-[params.utteranc]
-  enable = true
-  repo = "yuanyiyy/BlogCommens" 
-  issueTerm = "pathname"
-  theme = "github-light"      
+params:
+  utteranc:
+    enable: true
+    repo: yuanyiyy/BlogCommens
+    issueTerm: pathname
+    theme: github-light    
