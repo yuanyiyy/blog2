@@ -36,16 +36,14 @@ params:
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
   highlightjsVersion: "9.12.0"
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-      
-## 配置 utteranc评论,教程参考 https://utteranc.es/
-params:
+  # 配置 utteranc评论,教程参考 https://utteranc.es/
   utteranc:
     enable: true
     repo: yuanyiyy/BlogCommens
     issueTerm: pathname
     theme: github-light    
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
